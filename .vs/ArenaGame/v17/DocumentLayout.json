@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\ArenaGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E80BFE-A570-4211-AA0B-80A9083BDDDF}|ConsoleGame\\ConsoleGame.csproj|C:\\Users\\HP\\Desktop\\ArenaGame\\consolegame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E80BFE-A570-4211-AA0B-80A9083BDDDF}|ConsoleGame\\ConsoleGame.csproj|solutionrelative:consolegame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68FBA48-D806-46D3-894B-D63344D743D9}|ArenaGame\\ArenaGame.csproj|c:\\users\\hp\\desktop\\arenagame\\arenagame\\sword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68FBA48-D806-46D3-894B-D63344D743D9}|ArenaGame\\ArenaGame.csproj|solutionrelative:arenagame\\sword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68FBA48-D806-46D3-894B-D63344D743D9}|ArenaGame\\ArenaGame.csproj|c:\\users\\hp\\desktop\\arenagame\\arenagame\\axe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68FBA48-D806-46D3-894B-D63344D743D9}|ArenaGame\\ArenaGame.csproj|solutionrelative:arenagame\\axe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68FBA48-D806-46D3-894B-D63344D743D9}|ArenaGame\\ArenaGame.csproj|c:\\users\\hp\\desktop\\arenagame\\arenagame\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68FBA48-D806-46D3-894B-D63344D743D9}|ArenaGame\\ArenaGame.csproj|solutionrelative:arenagame\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68FBA48-D806-46D3-894B-D63344D743D9}|ArenaGame\\ArenaGame.csproj|c:\\users\\hp\\desktop\\arenagame\\arenagame\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68FBA48-D806-46D3-894B-D63344D743D9}|ArenaGame\\ArenaGame.csproj|solutionrelative:arenagame\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68FBA48-D806-46D3-894B-D63344D743D9}|ArenaGame\\ArenaGame.csproj|C:\\Users\\HP\\Desktop\\ArenaGame\\arenagame\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68FBA48-D806-46D3-894B-D63344D743D9}|ArenaGame\\ArenaGame.csproj|solutionrelative:arenagame\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68FBA48-D806-46D3-894B-D63344D743D9}|ArenaGame\\ArenaGame.csproj|C:\\Users\\HP\\Desktop\\ArenaGame\\arenagame\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68FBA48-D806-46D3-894B-D63344D743D9}|ArenaGame\\ArenaGame.csproj|solutionrelative:arenagame\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68FBA48-D806-46D3-894B-D63344D743D9}|ArenaGame\\ArenaGame.csproj|C:\\Users\\HP\\Desktop\\ArenaGame\\arenagame\\arena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68FBA48-D806-46D3-894B-D63344D743D9}|ArenaGame\\ArenaGame.csproj|solutionrelative:arenagame\\arena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68FBA48-D806-46D3-894B-D63344D743D9}|ArenaGame\\ArenaGame.csproj|c:\\users\\hp\\desktop\\arenagame\\arenagame\\rogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68FBA48-D806-46D3-894B-D63344D743D9}|ArenaGame\\ArenaGame.csproj|solutionrelative:arenagame\\rogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\ArenaGame\\ArenaGame\\Weapon.cs",
+              "RelativeDocumentMoniker": "ArenaGame\\Weapon.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\ArenaGame\\ArenaGame\\Weapon.cs",
+              "RelativeToolTip": "ArenaGame\\Weapon.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T10:14:00.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Gun.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\ArenaGame\\ArenaGame\\Gun.cs",
+              "RelativeDocumentMoniker": "ArenaGame\\Gun.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\ArenaGame\\ArenaGame\\Gun.cs",
+              "RelativeToolTip": "ArenaGame\\Gun.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T10:11:43.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Axe.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\ArenaGame\\ArenaGame\\Axe.cs",
+              "RelativeDocumentMoniker": "ArenaGame\\Axe.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\ArenaGame\\ArenaGame\\Axe.cs",
+              "RelativeToolTip": "ArenaGame\\Axe.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T10:10:40.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sword.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\ArenaGame\\ArenaGame\\Sword.cs",
+              "RelativeDocumentMoniker": "ArenaGame\\Sword.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\ArenaGame\\ArenaGame\\Sword.cs",
+              "RelativeToolTip": "ArenaGame\\Sword.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T10:09:50.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\ArenaGame\\ConsoleGame\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleGame\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\ArenaGame\\ConsoleGame\\Program.cs",
+              "RelativeToolTip": "ConsoleGame\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T07:53:56.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Arena.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\ArenaGame\\ArenaGame\\Arena.cs",
+              "RelativeDocumentMoniker": "ArenaGame\\Arena.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\ArenaGame\\ArenaGame\\Arena.cs",
+              "RelativeToolTip": "ArenaGame\\Arena.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T07:43:59.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Rogue.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\ArenaGame\\ArenaGame\\Rogue.cs",
+              "RelativeDocumentMoniker": "ArenaGame\\Rogue.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\ArenaGame\\ArenaGame\\Rogue.cs",
+              "RelativeToolTip": "ArenaGame\\Rogue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T07:31:59.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Knight.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\ArenaGame\\ArenaGame\\Knight.cs",
+              "RelativeDocumentMoniker": "ArenaGame\\Knight.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\ArenaGame\\ArenaGame\\Knight.cs",
+              "RelativeToolTip": "ArenaGame\\Knight.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T07:14:17.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Hero.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\ArenaGame\\ArenaGame\\Hero.cs",
+              "RelativeDocumentMoniker": "ArenaGame\\Hero.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\ArenaGame\\ArenaGame\\Hero.cs",
+              "RelativeToolTip": "ArenaGame\\Hero.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAUwCUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T07:07:48.019Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
